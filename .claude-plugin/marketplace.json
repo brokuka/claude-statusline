@@ -1,0 +1,34 @@
+{
+  "name": "claude-statusline",
+  "description": "A compact, color-coded status line for Claude Code.",
+  "owner": {
+    "name": "brokuka"
+  },
+  "plugins": [
+    {
+      "name": "claude-statusline",
+      "description": "Compact, color-coded status line for Claude Code — git branch, context window, 5h/weekly rate-limit windows, live session timer. Bash (zero deps) or Python. Includes /claude-statusline:setup and self-update.",
+      "version": "1.1.0",
+      "author": {
+        "name": "brokuka"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/brokuka/claude-statusline",
+      "license": "MIT",
+      "keywords": [
+        "statusline",
+        "status-line",
+        "git",
+        "context-window",
+        "session-timer"
+      ],
+      "tags": [
+        "statusline",
+        "ui",
+        "git"
+      ]
+    }
+  ],
+  "version": "1.1.0"
+}

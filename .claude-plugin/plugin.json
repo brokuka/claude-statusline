@@ -1,0 +1,19 @@
+{
+  "name": "claude-statusline",
+  "version": "1.1.0",
+  "description": "Compact, color-coded status line for Claude Code — git branch, context window, 5h/weekly rate-limit windows, live session timer. Bash (zero deps) or Python.",
+  "author": {
+    "name": "brokuka"
+  },
+  "repository": "https://github.com/brokuka/claude-statusline",
+  "homepage": "https://github.com/brokuka/claude-statusline",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "statusline",
+    "status-line",
+    "git",
+    "context-window"
+  ]
+}
